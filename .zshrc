@@ -21,7 +21,7 @@ antigen bundle tarruda/zsh-autosuggestions
 
 # Load the theme.
 # TODO: local theme ?
-antigen theme butanychuang/dotfiles .zsh/butany
+antigen theme lanlove/dotfiles .zsh/jenny
 
 # Tell antigen that you're done.
 antigen apply
