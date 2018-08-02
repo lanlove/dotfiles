@@ -55,7 +55,7 @@ set t_Co=256
 set ffs=unix,dos ff=unix
 
 " set mouse
-set mouse=a
+set mouse=r
 set ttymouse=xterm
 
 " 打開語法效果
